@@ -1,4 +1,2 @@
 streamlit
-pretty_midi
-librosa
 basic-pitch
