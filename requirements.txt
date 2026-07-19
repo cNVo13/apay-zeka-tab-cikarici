@@ -1,2 +1,1 @@
 streamlit
-basic-pitch
