@@ -1,6 +1,8 @@
 import streamlit as st
 import pretty_midi
 import os
+import os
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 
 # Sitenin başlığı ve açıklaması
 st.set_page_config(page_title="Yapay Zeka Tab Çıkarıcı", page_icon="🎸")
