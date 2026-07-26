@@ -1,3 +1,1 @@
 libsndfile1
-libasound2
-libportaudio2
